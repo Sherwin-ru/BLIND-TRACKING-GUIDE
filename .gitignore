@@ -1,0 +1,53 @@
+# Built application files and packages
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Build and cache directories
+build/
+**/build/
+.gradle/
+**/.gradle/
+gradleBuild/
+**/gradleBuild/
+
+# Local configuration file (contains Android SDK path, API keys, etc.)
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+**/.idea/
+*.iml
+**/*.iml
+.idea_modules/
+
+# Visual Studio Code
+.vscode/
+**/.vscode/
+
+# Native build cache
+.cxx/
+**/.cxx/
+.externalNativeBuild/
+**/.externalNativeBuild/
+
+# Profiling and diagnostics
+captures/
+**/captures/
+output.json
+
+# Keystore and signing files
+*.jks
+*.keystore
+
+# Google Services credentials (uncomment if you want to keep Firebase credentials out of version control)
+# google-services.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
